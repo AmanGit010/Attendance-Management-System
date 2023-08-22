@@ -97,5 +97,3 @@ python manage.py runserver
 
 ![Screenshot_20230622-134325](https://github.com/AmanGit010/Attendance-Management-System/assets/102356628/8bfeda4f-b7ba-4332-a1a6-15e5f66a75ca)
 
-```
-
